@@ -1,4 +1,4 @@
-package com.tecpontotec.demo.models;
+package com.techpontotech.demo.models;
 
 /**
  * Exemplo de classe para representar credenciais em formato JSON.

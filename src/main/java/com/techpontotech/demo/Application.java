@@ -1,13 +1,13 @@
-package com.tecpontotec.demo;
+package com.techpontotech.demo;
 
 import java.net.URI;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.tecpontotec.demo.models.DatabaseCredentials;
-import com.tecpontotec.secretconnector.SecretManagerConnector;
-import com.tecpontotec.secretconnector.converter.impl.SecretConverters;
+import com.techpontotech.demo.models.DatabaseCredentials;
+import com.techpontotech.secretconnector.SecretManagerConnector;
+import com.techpontotech.secretconnector.converter.impl.SecretConverters;
 
 import software.amazon.awssdk.auth.credentials.AwsBasicCredentials;
 import software.amazon.awssdk.auth.credentials.StaticCredentialsProvider;

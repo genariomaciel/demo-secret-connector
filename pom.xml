@@ -24,7 +24,7 @@
   <dependencies>
 
     <dependency>
-      <groupId>com.tec-ponto-tec</groupId>
+      <groupId>com.tech-ponto-tech</groupId>
       <artifactId>secret-connector</artifactId>
       <version>1.0.0</version>   
     </dependency>
