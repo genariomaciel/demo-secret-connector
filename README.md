@@ -1,3 +1,7 @@
+Esta é uma iniciativa promovida pelo canal tech ponto tech.
+
+# **TECH-PONTO-TECH** 
+
 # Demo Secret Connector
 
 Uma aplicação Java que demonstra como integrar o **Secret Connector** para recuperar credenciais e configurações do AWS Secrets Manager usando LocalStack para desenvolvimento local.
