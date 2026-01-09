@@ -1,8 +1,6 @@
-Esta é uma iniciativa promovida pelo canal tech ponto tech.
+Esta é uma iniciativa promovida pelo canal ***TECH-PONTO-TECH*** 
 
-# **TECH-PONTO-TECH** 
-
-# Demo Secret Connector
+# Demo Secret Connector Console
 
 Uma aplicação Java que demonstra como integrar o **Secret Connector** para recuperar credenciais e configurações do AWS Secrets Manager usando LocalStack para desenvolvimento local.
 
@@ -211,10 +209,10 @@ docker-compose -f .docker/docker-compose-localstack-secret.yml down -v
 
 ## 📚 Referências
 
+- [Secret Connector](https://github.com/genariomaciel/secret-connector)
 - [AWS Secrets Manager Documentation](https://docs.aws.amazon.com/secretsmanager/)
-- [LocalStack Documentation](https://docs.localstack.cloud/)
 - [AWS SDK for Java v2](https://github.com/aws/aws-sdk-java-v2)
-- [Secret Connector Repository](https://github.com/genariomaciel/secret-connector)
+- [LocalStack Documentation](https://docs.localstack.cloud/)
 
 ## 📄 Licença
 
